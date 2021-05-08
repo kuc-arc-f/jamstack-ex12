@@ -6,7 +6,7 @@
 
  date    : 2021/05/07
 
- update  : 2021/05/08 
+ update  : 2021/05/09
 
 ***
 ### Summary
@@ -31,7 +31,11 @@ MY_JSON_URL=https://localhost/files/cms.json
 * yarn dev
 
 ***
-### Related :
+### sample URL
+https://cms-kuc-jamstack-ex12.netlify.app/
+
+***
+# Related :
 
 * tailwindcss + next.js、jsonファイル読込むSSGサイト
 
