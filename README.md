@@ -6,14 +6,13 @@
 
  date    : 2021/05/07
 
- update  : 2021/05/08
+ update  : 2021/05/08 
 
 ***
 ### Summary
 
 tailwindcss + next.js SSG , json file read
 
-* Github pages : SSG コンパイル
 
 ***
 # Setup
