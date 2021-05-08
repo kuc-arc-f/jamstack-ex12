@@ -6,7 +6,7 @@
 
  date    : 2021/05/07
 
- update  :
+ update  : 2021/05/08
 
 ***
 ### Summary
@@ -30,9 +30,6 @@ MY_JSON_URL=https://localhost/files/cms.json
 * npm install
 
 * yarn dev
-
-***
-### sample URL
 
 ***
 ### Related :
